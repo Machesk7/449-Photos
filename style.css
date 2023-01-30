@@ -22,3 +22,10 @@ h1 {
     border-radius: 10px;
     width: 33%;
   }
+
+.image-PebbleBeach {
+    margin-top: 8px;
+    vertical-align: middle;
+    border-radius: 10px;
+    width: 100%;
+}
